@@ -1,0 +1,2 @@
+# opensoft-calculator
+Basic calculator
